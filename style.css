@@ -66,6 +66,8 @@ nav {
 
 .div-image {
   width: 700px;
+  margin: auto;
+  margin-bottom: 20px;
 }
 
 .div-image img {
